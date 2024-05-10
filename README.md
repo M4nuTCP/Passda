@@ -3,25 +3,22 @@ Tool for creating secure passwords.
 
 https://github.com/ManuGalan/Passda/assets/96147300/6db73a8a-663b-44af-b478-5028ffe5f275
 
-1. Generates random passwords with uppercase letters, lowercase letters, and numbers.
+Genera contraseñas aleatorias con letras mayúsculas, letras minúsculas y números.
 
-2. Hashing Passwords:
+Cifrado de contraseñas:
 
-Provides options to hash passwords using different hash algorithms such as MD5, SHA-1, SHA-256, SHA-3, and BLAKE2.
+Ofrece opciones para cifrar contraseñas utilizando diferentes algoritmos de hash como MD5, SHA-1, SHA-256, SHA-3 y BLAKE2.
 
-3. Viewing Generated Passwords:
+Visualización de contraseñas generadas:
+Muestra las contraseñas generadas junto con los nombres proporcionados por el usuario.
 
-Displays the generated passwords along with names provided by the user.
+Interfaz amigable para el usuario:
+Presenta una interfaz clara y utiliza un logo ASCII para dar un aspecto distintivo al programa.
 
-4. User-Friendly Interface:
+Operación continua:
+Permite al usuario realizar estas operaciones de manera continua hasta decidir salir del programa.
 
-Presents a clear user interface and uses an ASCII logo to give a distinctive look to the program.
-
-5. Continuous Operation:
-
-Allows the user to perform these operations continuously until deciding to exit the program.
-
-This program is useful for securely generating and managing passwords, as well as applying hash functions to existing passwords.
+Este programa es útil para generar y gestionar contraseñas de manera segura, así como para aplicar funciones de hash a contraseñas existentes.
 
 
 
