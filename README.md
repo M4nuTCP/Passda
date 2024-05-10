@@ -1,6 +1,4 @@
 # Passda
-Tool for creating secure passwords.
-
 https://github.com/ManuGalan/Passda/assets/96147300/6db73a8a-663b-44af-b478-5028ffe5f275
 
 Genera contraseñas aleatorias con letras mayúsculas, letras minúsculas y números.
